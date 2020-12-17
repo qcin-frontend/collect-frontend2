@@ -24,7 +24,7 @@
     "angular-2-dropdown-multiselect": "^1.6.3",
     "bootstrap": "^4.0.0-beta.2",
     "core-js": "^2.4.1",
-    "datatables.net": "^1.10.16",
+    "datatables.net": "^1.10.22",
     "datatables.net-bs": "^1.10.16",
     "lz-string": "^1.4.4",
     "ng-select": "^1.0.0-rc.3",
